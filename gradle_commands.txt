@@ -1,0 +1,4 @@
+gradle clean - Tar bort build/
+gradle build - Bygger projektet. Kombinerar assemble(kompilera klasser, paketera) och check(kompilera tester, kör tester). Allt läggs i build/
+gradle javadoc - skapar javadoc i build/docs/
+gradle build javadoc - kombinerar build och javadoc med ett kommando
